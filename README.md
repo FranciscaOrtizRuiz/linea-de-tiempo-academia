@@ -14,9 +14,9 @@ This repository  have (in JPG and high quality) four images used in the article 
 - Timeline 3: Case study of Francisco
 - Timeline 4: Case study of Trinidad
 
-![](img/linea1_casoagustin.png)
-![](img/linea2_casoignacia.png)
-![](img/linea3_casofrancisco.png)
-![](img/linea4_casotrinidad.png)
+![](linea1_casoagustin.png)
+![](linea2_casoignacia.png)
+![](linea3_casofrancisco.png)
+![](linea4_casotrinidad.png)
 
 
